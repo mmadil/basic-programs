@@ -1,8 +1,6 @@
-
 /*
- * Making things simple for myself.
+ * Making things simpler for myself.
  *
- * This is how I have learned to code in C++
  */
 
 #define cout std::cout
